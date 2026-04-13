@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Minnesota, US",
+  "export_job_id": "8caf0cb3-4846-4d34-ae6c-2f13c8fe0d4f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 719803,
+  "location_name": "Minnesota",
+  "location_type": "state",
+  "repo_name": "top-30-active-restaurant-review-whales-in-minnesota-us-sample-719803",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/719803/beamstation_719803_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_pct": 0.48,
+  "sample_records": 10,
+  "sample_sha256": "8ddd38e2389ae826d115dbfbf2779ecbc1f27ca2e729d855059f8d2b645da3c5",
+  "sample_size_bytes": 57455,
+  "total_records": 2092,
+  "updated_at": "2026-03-31T23:33:30.657434+00:00"
+}
