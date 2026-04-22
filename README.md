@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Minnesota, US
 
-> Free BeamStation sample export with 214 rows and masked direct-contact fields.
+> Free BeamStation sample export with 130 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `719803` |
 | Location | Minnesota |
 | Category | Restaurants |
-| Full dataset size | 2,141 records |
-| Free sample size | 214 records (10.0%) |
-| Last export | 2026-04-15T01:13:41.126877+00:00 |
+| Full dataset size | 1,304 records |
+| Free sample size | 130 records (9.97%) |
+| Last export | 2026-04-22T05:34:28.622628+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-minnesota-us-sample-719803/releases/download/sample-latest/beamstation_719803_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
