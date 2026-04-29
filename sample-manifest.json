@@ -1,12 +1,12 @@
 {
-  "export_job_id": "eaf3e9fe-a8de-451c-bf3f-7d9323d2aadd",
+  "export_job_id": "60304631-9866-4feb-85e5-7b6cf417d721",
   "id_short": 719803,
-  "published_at": "2026-04-22T07:55:26Z",
+  "published_at": "2026-04-29T19:12:58Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-minnesota-us-sample-719803",
   "sample_asset_name": "beamstation_719803_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/719803/beamstation_719803_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 130,
-  "sample_sha256": "25be66a9dbff293845686bd642c71101048a1d5c9f1e512fca76953cc0c224ce",
-  "sample_size_bytes": 517420,
-  "total_records": 1304
+  "sample_records": 31,
+  "sample_sha256": "27d78b247d30b8c11b172fdb29765bf4f582ac18d4a62089f0848ca5f8f7ed2d",
+  "sample_size_bytes": 142512,
+  "total_records": 317
 }
